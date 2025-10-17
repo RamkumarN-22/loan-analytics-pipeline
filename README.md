@@ -5,6 +5,12 @@
 This project demonstrates a **full-stack data analytics pipeline** for banking loan analysis — from raw SQL data modeling to Python-based machine learning and Power BI dashboards for business insights.  
 It’s designed as an **interview-ready, reproducible portfolio project** that mirrors real-world financial analytics workflows.
 
+This project demonstrates a complete data analytics workflow for banking loan analysis — from SQL data modeling to Python-based machine learning and Power BI visualization.
+
+🔗 **Live Dashboard:** [View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTMxYzk0MWQtYTI0YS00ODg5LWIzYTMtZWI1NjRjOGU1YTFhIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9)  
+🧭 **Portfolio (Notion):** [View Full Project Portfolio](https://www.notion.so/YOUR-NOTION-PORTFOLIO-LINK)  
+💼 **LinkedIn:** [Ramkumar N](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
+
 ---
 
 ## 🧠 Project Summary
