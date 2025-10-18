@@ -8,7 +8,7 @@ It’s designed as an **interview-ready, reproducible portfolio project** that m
 This project demonstrates a complete data analytics workflow for banking loan analysis — from SQL data modeling to Python-based machine learning and Power BI visualization.
 
 🔗 **Live Dashboard:** [View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTMxYzk0MWQtYTI0YS00ODg5LWIzYTMtZWI1NjRjOGU1YTFhIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9)  
-🧭 **Portfolio (Notion):** [View Full Project Portfolio](https://www.notion.so/YOUR-NOTION-PORTFOLIO-LINK)  
+🧭 **Portfolio (Notion):** [View Full Project Portfolio](https://marked-unicorn-aef.notion.site/Loan-Analytics-Pipeline-29079b3fd86d8056b84ec71ecc37c5e1)  
 💼 **LinkedIn:** [Ramkumar N](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
 
 ---
